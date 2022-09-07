@@ -16,8 +16,8 @@ MonoBehaviour:
     \xE7\u0131kar\u0131lan ve bu y\u0131l\u0131n \u015Fu ana kadarki en iyi kullan\u0131c\u0131
     oyuna sahip macera oyunu hangisidir?"
   answers:
-  - Stray
   - Elden Ring
+  - Stray
   - Starfield
   - Hogwarts Legacy
-  correctAnswerIndex: 0
+  correctAnswerIndex: 1

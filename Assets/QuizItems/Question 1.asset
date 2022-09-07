@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e5fe87011bd2ea43b982d11f3fe8806, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  questionText: "1962'de MIT'de Steve Russell ve arkada\u015Flar\u0131 taraf\u0131ndan
-    geli\u015Ftirilen bilgisayar tabanl\u0131 ilk oyun hangisidir?"
+  questionText: "Need For Speed Carbon oyununun tutorial\u0131 hangi model araba
+    ile oynlan\u0131r?"
   answers:
-  - SpaceWar
-  - Tennis for Two
-  - Odyssey
-  - Space Invaders
+  - BMW
+  - Mercedes
+  - Bentley
+  - Rolls Royce
   correctAnswerIndex: 0
