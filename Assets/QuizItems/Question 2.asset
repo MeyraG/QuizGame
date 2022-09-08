@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   questionText: "Nintendo Game Boy konsollar\u0131ndaki ilk versiyonundan sonra,
-    AR oyunu olarak yeniden piyasaya s\xFCr\xFClen ve 1 milyardan daha fazla indirilen
+    AR oyunu olarak yeniden piyasaya s\xFCr\xFClen ve 1 milyardan fazla indirilen
     oyun hangisidir?"
   answers:
   - The Birdcage

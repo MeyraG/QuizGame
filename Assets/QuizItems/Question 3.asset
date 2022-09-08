@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e5fe87011bd2ea43b982d11f3fe8806, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  questionText: "BlueTwelve Studio ve Annapurna Interactive ortakl\u0131\u011F\u0131yla
-    \xE7\u0131kar\u0131lan ve bu y\u0131l\u0131n \u015Fu ana kadarki en iyi kullan\u0131c\u0131
-    oyuna sahip macera oyunu hangisidir?"
+  questionText: "BlueTwelve Studio ve Annapurna Interactive'in \xE7\u0131kard\u0131g\u0131
+    ve bu y\u0131l\u0131n \u015Fu ana kadarki en iyi kullan\u0131c\u0131 oyuna sahip
+    macera oyunu hangisidir?"
   answers:
   - Elden Ring
   - Stray

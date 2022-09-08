@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e5fe87011bd2ea43b982d11f3fe8806, type: 3}
   m_Name: Question 10
   m_EditorClassIdentifier: 
-  questionText: "2022 y\u0131l\u0131nda staj ba\u015Fvurusu reddedildi\u011Fi i\xE7in
-    2 hafta kesintisiz a\u011Flayan developer\u0131n ad\u0131 nedir?"
+  questionText: "2022 y\u0131l\u0131nda staj ba\u015Fvurusu reddedildigi i\xE7in
+    2 hafta kesintisiz aglayan developer aday\u0131n\u0131n ad\u0131 nedir?"
   answers:
   - "Y\u0131k\u0131k"
   - Ezik

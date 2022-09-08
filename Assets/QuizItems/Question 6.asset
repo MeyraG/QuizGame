@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e5fe87011bd2ea43b982d11f3fe8806, type: 3}
   m_Name: Question 6
   m_EditorClassIdentifier: 
-  questionText: "Hangisi Zynga'n\u0131n sat\u0131n ald\u0131\u011F\u0131 t\xFCrk
-    \u015Firketlerden biri de\u011Fildir?"
+  questionText: "Hangisi Zynga'n\u0131n sat\u0131n ald\u0131g\u0131 t\xFCrk \u015Firketlerden
+    biri degildir?"
   answers:
   - Gram
   - Rollic

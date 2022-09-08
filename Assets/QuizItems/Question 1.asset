@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e5fe87011bd2ea43b982d11f3fe8806, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  questionText: "Need For Speed Carbon oyununun tutorial\u0131 hangi model araba
-    ile oynlan\u0131r?"
+  questionText: "Need For Speed Carbon oyunu ba\u015Flang\u0131\xE7ta hangi model
+    araba ile oynan\u0131r?"
   answers:
   - BMW
   - Mercedes
