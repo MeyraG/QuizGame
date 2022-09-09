@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a541c616ce4c5e447b34504e98ee1be0, type: 3}
+  m_Name: SecondScene
+  m_EditorClassIdentifier: 
+  questions:
+  - question: Basketball Arena hangi studyonun oyunu?
+    options:
+    - Masomo
+    - Dream
+    - Ruby
+    - Ace
+    correctIndex: 0
+  - question: "Y\u0131l\u0131n ilk 6 ay\u0131nda T\xFCrk oyun giri\u015Fimcileri
+      toplamda ne kadar yat\u0131r\u0131m toplam\u0131\u015Ft\u0131r?"
+    options:
+    - 100m $
+    - 250m $
+    - 333m $
+    - 10b  $
+    correctIndex: 2
+  - question: "Hangi meslekten insanlar g\xFClemez?"
+    options:
+    - "\u0130mam"
+    - Art director
+    - Marketing Specialist
+    - ' Intern'
+    correctIndex: 0
+  - question: "Bir oyun geli\u015Ftiricinin hangisine ihtiyac\u0131 olmaz?"
+    options:
+    - PC
+    - Mouse
+    - Klavye
+    - Cintiq
+    correctIndex: 3
+  - question: "Art\xE7\u0131lar\u0131n beslendi\u011Fi kaynak hangisi olmamal\u0131?"
+    options:
+    - Artstation
+    - Behance
+    - Tiktok
+    - Deviant Art
+    correctIndex: 2
+  - question: "Hangisi Hideo Kojima'n\u0131n ald\u0131\u011F\u0131 \xF6d\xFCllerden
+      biri de\u011Fildir?"
+    options:
+    - "BAFTA Akademi Ba\u011Fl\u0131l\u0131k \xD6d\xFCl\xFC"
+    - "G\xFCzel Sanatlar \xD6d\xFCl\xFC"
+    - Industry Icon Award
+    - "Kral TV Video M\xFCzik \xF6d\xFClleri"
+    correctIndex: 3
+  - question: "Youtube'da bir defa oyunla ilgili arama yapan herkesin en az 1 videosunu
+      izledi\u011Fi, danimarkal\u0131 oyun geli\u015Ftiricisi kimdir?"
+    options:
+    - Jason Weimann
+    - Asbjorn Thirslund
+    - ' Henriette Moos'
+    - Sebastian Lague
+    correctIndex: 1
